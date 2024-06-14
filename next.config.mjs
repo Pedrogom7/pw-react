@@ -7,6 +7,7 @@ const nextConfig = {
             'assets.pokemon.com'         // Official Pokemon assets
         ],
     },
+    output: 'export'
 };
 
 export default nextConfig;
